@@ -1,0 +1,6 @@
+venv/
+__pycache__/
+tempCodeRunnerFile.*
+~$*.xlsx
+data/raw/
+data/processed/
